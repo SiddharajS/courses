@@ -1,3 +1,3 @@
-INFO-6107
-INFO-6108
-INFO-6110
+INFO-6107 Interface Technologies
+INFO-6109 Application Technologies
+INFO-6110 Operating System 1
